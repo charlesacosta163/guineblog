@@ -19,7 +19,7 @@ Guineblog is a small full-stack project and a simple blogging app that enables y
 
 1. **Node.js**: Ensure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 2. **Clerk Account**: Sign up for a Clerk account at [clerk.dev](https://clerk.dev/).
-3. **MongoDB**: You can either set up MongoDB locally or use MongoDB Atlas.
+3. **MongoDB**: Set up using MongoDB Atlas.
 
 ### Setting Up Clerk
 
