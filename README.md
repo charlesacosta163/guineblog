@@ -1,10 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#About Guineblog
+# About Guineblog
 
 Guineblog is a small full-stack project and a simple blogging app that enables you to write blogs and post it into the database as well as posting comments to each blog and filtering categories. 
 
-##Technologies and APIs Used
+## Technologies and APIs Used
 
 * Next.js 14
 * Clerk API (Auth system)
