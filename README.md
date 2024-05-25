@@ -29,7 +29,7 @@ Guineblog is a small full-stack project and a simple blogging app that enables y
 
 ### Setting Up MongoDB
 
-#### Option 1: Using MongoDB Atlas
+#### Using MongoDB Atlas
 
 1. **Sign Up**: Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) and sign up for a free account.
 2. **Create a Cluster**: Follow the instructions to create a new cluster.
@@ -38,21 +38,6 @@ Guineblog is a small full-stack project and a simple blogging app that enables y
 
     ```env
     MONGODB_URI=<your-mongodb-atlas-connection-string>
-    ```
-
-#### Option 2: Using Local MongoDB
-
-1. **Install MongoDB**: Follow the instructions on the [MongoDB installation page](https://docs.mongodb.com/manual/installation/) to install MongoDB on your local machine.
-2. **Start MongoDB**: Start the MongoDB server by running:
-
-    ```sh
-    mongod
-    ```
-
-3. **Environment Variables**: Add your local MongoDB connection string to your `.env.local` file:
-
-    ```env
-    MONGODB_URI=mongodb://localhost:27017/<your-db-name>
     ```
 
 ### Configuring Your Project
