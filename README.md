@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Guineblog is a small full-stack project and a simple blogging app that enables you to write blogs and post them into the database, as well as post comments to each blog and filter categories.
 
+[**Guineblog Demonstration Video**](https://drive.google.com/file/d/1HJF1pmPpgBSzGkVJ7OQKNcsAWDR1eG4a/view?usp=sharing)
+
 ## Technologies and APIs Used
 
 * Next.js 14
